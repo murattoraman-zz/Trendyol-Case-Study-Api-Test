@@ -9,3 +9,9 @@
   - python -m pytest TestCasesForAPI.py --html=test_report.html
   - Alternative command
     - python3.8 -m pytest TestCasesForAPI.py --html=test_report.html
+
+### Module List
+- requests
+- json
+- flask
+- flask_restful
